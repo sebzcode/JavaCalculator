@@ -50,7 +50,6 @@ The application uses a **custom expression evaluation method powered by stacks**
 ---
 
 ## 👨‍💻 Author
-🧑‍🚀 thecopyninja55
-🌐 GitHub Profile : https://github.com/thecopyninja55
+🧑‍🚀 Developed by sebs
 
 👉 If you like this project, consider giving it a ⭐ on GitHub!
